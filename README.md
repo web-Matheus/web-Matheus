@@ -12,9 +12,7 @@ Uma pessoa se aventurando no mundo da programação.Focado em passar uma boa **U
   🔬 SASS
         <BR>
           💻 REACT JS <BR>
-          <br><br>
- 🤓**CURRENT LEARNING...**
-          <BR>
-        👨‍💻 NODE.JS <BR>
-       👨‍💻 WEB SECURITY
+         💻 TYPESCRIPT <BR>
+         <br>
+
 
