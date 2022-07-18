@@ -9,9 +9,9 @@
   <br>
  - 📚Após concluir o curso de python resolvi aprender desenvolvimento web na parte FRONT-END.
   <BR>
- - 📗 Atualmente estou estudando desenvolvimento BACK-END nodejs e mongodb.
+ - 📗 Atualmente estou estudando desenvolvimento BACK-END nodejs.
     <br>
- - 📖 Para o futuro almeijo aprender AWS.
+
 
 
 </div>
